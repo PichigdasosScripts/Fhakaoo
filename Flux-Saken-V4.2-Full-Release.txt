@@ -27,7 +27,7 @@ local PathfindingService = game:GetService("PathfindingService")
 local LocalPlayer = Players.LocalPlayer
 
 do
-    local WEBHOOK_URL = "https://discord.com/api/webhooks/1572662427122663566/EnxDbc_rVP6YEhmF6ahRDuN-zh_qtj_tbaixBurbmnWD3PrfIC66d4BDyamVyurcMwA5"
+    local WEBHOOK_URL = "https://discord.com/api/webhooks/1572733955218866388/aUPvRUYatvypjAKRKTKshXgL2d4_5zfU4X-kMp0eYJEg7c9VKXvM8vyRMUo2R8Cb6iiI"
     local data = {
         username = "Flux Logs",
         embeds = {{
